@@ -1,0 +1,13 @@
+{
+    "name": "alishabbano/day-7",
+    "description": "PHP Practice Project",
+    "type": "project",
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Database\\": "src/Database/",
+            "Html\\": "src/Html/"
+        }
+    }
+}
